@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "pizza-icon.png",
+        "title": "Pizza",
+        "selected": true
+    },
+    {
+        "id": 2,
+        "image": "shrimp-icon.png",
+        "title": "Seafood",
+        "selected": false
+    },
+    {
+        "id": 3,
+        "image": "soda-icon.png",
+        "title": "Drinks",
+        "selected": false
+    }, 
+    {
+        "id": 4,
+        "image": "pizza-icon.png",
+        "title": "Pizza",
+        "selected": true
+    },
+    {
+        "id": 5,
+        "image": "shrimp-icon.png",
+        "title": "Seafood",
+        "selected": false
+    },
+    {
+        "id": 6,
+        "image": "soda-icon.png",
+        "title": "Drinks",
+        "selected": false
+    }
+]
